@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chin Xuan
+# Hi 👋, I'm CX
 
 ### A passionate frontend developer
 
