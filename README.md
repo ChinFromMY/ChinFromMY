@@ -1,6 +1,7 @@
 # Hi 👋, I'm CX
 
-### A passionate computational science student interested in machine learning, AI and full-stack development.
+### Computational Science student interested in machine learning, AI, full-stack development and software testing.   
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
