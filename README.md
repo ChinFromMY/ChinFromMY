@@ -1,12 +1,6 @@
 # Hi 👋, I'm CX
 
-### A passionate frontend developer
-
-- 🔭 I'm currently working on **a bookmark Chrome extension with RAG features project**
-
-- 🌱 I'm currently learning **TypeScript**
-
-- 💬 Ask me about **React and web development**
+### A passionate computational science student interested in machine learning, AI and full-stack development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
